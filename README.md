@@ -1,6 +1,6 @@
 # tailwindcss-defaults
 
-##Installation
+## Installation
 ```
 npm install tailwindcss-defaults
 ```
